@@ -1,19 +1,14 @@
 ---
 name: Algolia
 x-slug: algolia
-description: Algolia provides a hosted search API that allows websites and mobile
-  applications to increase user engagement and conversions. Algolia API returns search
-  results in milliseconds, with a search-as-you-type experience for their end users.
-  Algolia offers out-of-the-box support for every language, is typo-tolerant, and
-  allows easy ranking configuration for your data set. Algolia allows any developer
-  to build the search engine they want quickly and easily and serves today more than
-  5B queries per month with 99.99% SLA.
-image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/algolia.png
+description: A powerful hosted search engine API, Algolia provides product teams with
+  the resources & tools they need to create fast, relevant search.
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2140-algolia.jpg
 x-kinRank: "8"
-x-alexaRank: ""
+x-alexaRank: "28543"
 tags: Algolia
-created: "2018-05-22"
-modified: "2018-05-22"
+created: "2018-05-24"
+modified: "2018-05-24"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/algolia/master/_listings/algolia/apis.md
 specificationVersion: "0.14"
 apis: []
@@ -24,8 +19,24 @@ x-common:
   url: http://feeds.feedburner.com/AlgoliaBlog
 - type: x-crunchbase
   url: http://www.crunchbase.com/company/algolia
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/algolia
 - type: x-documentation
   url: http://www.algolia.com/doc
+- type: x-email
+  url: hey@algolia.com
+- type: x-email
+  url: support@algolia.com
+- type: x-email
+  url: sales@algolia.com
+- type: x-email
+  url: privacy@algolia.com
+- type: x-email
+  url: abuse@algolia.com
+- type: x-email
+  url: contact@algolia.com
+- type: x-email
+  url: legal@Algolia.com
 - type: x-github
   url: https://github.com/algolia
 - type: x-pricing
